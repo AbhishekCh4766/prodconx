@@ -1,0 +1,8 @@
+[13-Sep-2017 11:52:27 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[14-Sep-2017 00:34:55 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[19-Oct-2017 19:14:24 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[18-Nov-2017 22:47:33 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[07-Dec-2017 02:29:07 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[15-Jan-2018 05:00:53 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[22-Jan-2018 23:49:41 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8
+[04-Mar-2018 15:22:46 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/allalepy/public_html/prodconx/app/Http/Requests/Request.php on line 8

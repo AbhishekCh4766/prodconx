@@ -1,0 +1,8 @@
+[16-Jan-2018 00:11:53 Etc/GMT] PHP Notice:  Undefined variable: membership in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 104
+[16-Jan-2018 00:11:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 104
+[16-Jan-2018 00:11:53 Etc/GMT] PHP Notice:  Undefined variable: membership in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 105
+[16-Jan-2018 00:11:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 105
+[06-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: membership in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 104
+[06-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 104
+[06-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: membership in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 105
+[06-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/membership/membershipEdit.blade.php on line 105

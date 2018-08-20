@@ -1,0 +1,128 @@
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[16-Jan-2018 00:14:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 33
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 33
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 36
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 36
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 46
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 46
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 56
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 56
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 65
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 65
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 75
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 75
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 85
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 85
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 113
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 113
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 130
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 130
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 146
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 146
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 162
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 162
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 217
+[16-Jan-2018 00:14:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 217
+[16-Jan-2018 00:14:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[16-Jan-2018 00:14:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[16-Jan-2018 00:14:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[16-Jan-2018 00:14:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 23
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 23
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 26
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 26
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 27
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 27
+[16-Jan-2018 00:15:11 Etc/GMT] PHP Fatal error:  Call to undefined function url() in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 33
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 25
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[06-Apr-2018 06:03:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/contacts.blade.php on line 198
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 33
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 33
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 36
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 36
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 46
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 46
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 56
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 56
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 65
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 65
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 75
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 75
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 85
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 85
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 113
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 113
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 130
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 130
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 146
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 146
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 162
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 162
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Undefined variable: project in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 217
+[06-Apr-2018 06:04:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 217
+[06-Apr-2018 06:04:06 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[06-Apr-2018 06:04:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[06-Apr-2018 06:04:06 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[06-Apr-2018 06:04:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/callsheet/pendingcallsheet.blade.php on line 26
+[18-Aug-2018 18:11:34 Etc/GMT] PHP Fatal error:  Class 'Request' not found in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/updatelocations.blade.php on line 26
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 26
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 26
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 27
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 27
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 31
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 31
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 32
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 32
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 36
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 36
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 37
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 37
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 39
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 39
+[18-Aug-2018 21:58:22 Etc/GMT] PHP Fatal error:  Call to undefined function url() in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewcallsheet.blade.php on line 45
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 33
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 33
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 36
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 36
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 46
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 46
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 56
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 56
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 65
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 65
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 75
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 75
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 85
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 85
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 95
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 95
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 105
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 105
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 115
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 115
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 125
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 125
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 153
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 153
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 170
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 170
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 186
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 186
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 202
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 202
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Undefined variable: project in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 257
+[19-Aug-2018 07:56:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/editscallsheet.blade.php on line 257
+[19-Aug-2018 09:40:55 Etc/GMT] PHP Fatal error:  Class 'App\Models\ProjectModel' not found in /home3/allalepy/public_html/prodconx/resources/views/users/callsheet/viewconfirmcallsheet.blade.php on line 30

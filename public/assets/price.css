@@ -1,0 +1,457 @@
+
+/*Themes.css*/
+@font-face {font-family:MuseoSans;src:url(../fonts/museosans-500.otf),url(../fonts/museosans-500.ttf) format('truetype'),url(../fonts/museosans-500.woff) format('woff'),url(../fonts/museosans-500.woff2) format('woff2');font-weight:400}
+body {font-family:'Open Sans',sans-serif;font-weight:400;font-size:14px;outline:0}
+.header {height:80px;background:#fff;box-shadow:1px 1px 20px #dadada}
+.price-table {background:#fff;text-align:center}
+.price-table .section-title {font-size:37px;font-family:MuseoSans}
+.price-table .section-sub-title {font-size:16px}
+.price-table .price-col1 {width:37%;float:left}
+.price-table .price-col {width:21%;float:left}
+.price-table .prices-plan {height:auto;overflow:hidden;padding:20px 0 0}
+.price-table .prices-plan ul.prices-plan-name {list-style:none;display:inline-block;border:2px solid #ff551a;border-radius:5px;margin:0}
+.price-table .prices-plan ul.prices-plan-name li {padding:5px 20px;margin:-1px}
+.price-table .prices-plan ul.prices-plan-name li a {text-decoration:none;font-size:14px;color:#3b3b3b;font-weight:700;text-transform:capitalize;font-family:"Open Sans",sans-serif}
+.price-table .prices-plan ul.prices-plan-name li.active {background:#ff551a}
+.price-table .prices-plan ul.prices-plan-name li.active a {color:#fff}
+.price-table .prices-plan .tab-content {margin:25px 0}
+.price-table .prices-plan .tab-content>.active .price-plan-details {border-style:solid;border-width:2px 0 2px 2px;border-color:#c3c3c3;padding:0}
+.price-table .prices-plan .tab-content>.active .price-plan-details .col-md-3 {border-right:2px solid #c3c3c3;padding:0}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head {padding:40px 0;color:#dadada;font-size:20px;border-style:solid;border-width:0 0 2px;border-color:#c3c3c3;text-transform:uppercase}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head .icon {width:60px;height:60px;border-radius:50%;background:#ededed;margin:auto}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head .icon img {position:relative;top:15px;left:-2px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head .name {font-size:20px;text-transform:uppercase}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head .price {font-size:28px;color:#7dbb18}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head .price b {font-size:40px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head p {font-size:14px;text-transform:none}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head-first {padding:124px 0 123px!important}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {font-size:16px;color:#dadada;border-width:0 0 2px;border-color:#c3c3c3;border-style:solid;padding:7px 0}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-title .fa-check {color:#7dbb18}
+.price-table .prices-plan .tab-content>.active .price-plan-details ul.item {margin:0}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-title:last-of-type {border:none}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-button {padding:25px 0;background:#f3f3f3;text-align:center}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-button .btn-plan {background:#ff551a;font-size:20px;padding:10px 40px;border:none;box-shadow:none;color:#fff;font-weight:700;border-radius:7px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .empty-btn {height:98px}
+.call-to-action h4 {margin:0;color:#282828;font-size:18px}
+.call-to-action h4 span {color:#ff551a}
+.call-to-action .media-body {font-size:12px;color:#282828}
+.call-to-action .media-heading {font-size:16px;color:#282828;padding-bottom:10px}
+.faq h2.title {text-align:center;font-size:35px;color:#282828;text-decoration:underline;font-family:MuseoSans}
+.faq ul {margin:0;padding:40px 0 20px}
+.faq ul li {margin:25px 0}
+.faq ul li h4 {font-size:16px;color:#282828;font-weight:600;font-family:MuseoSans}
+.faq ul li p {color:#282828;font-size:14px}
+.create-account {margin:20px 0}
+.create-account .create-account-box {border:3px solid #7dbb18;border-radius:4px}
+.create-account .create-account-box h1 {text-align:center;color:#7dbb18;margin:20px 0}
+.create-account .create-account-box hr {display:block;height:1px;border:0;border-top:3px solid #7dbb18;margin:1px 0;padding:0}
+.create-account .create-account-box .menu {background:#a4d55f;padding:0 40px;margin-bottom:2px}
+.create-account .create-account-box .menu ul {margin:0;padding:20px}
+.create-account .create-account-box .menu ul li a {color:#fff;text-decoration:none;font-size:22px}
+.create-account .create-account-box .menu .free-account {text-align:center}
+.create-account .create-account-box .menu .free-account a {background:#ff551a;color:#fff;font-size:22px;font-weight:600;padding:5px 20px;text-decoration:none;text-transform:uppercase;position:relative;right:10%}
+
+/*Responsive.css*/
+@media (max-width:736px) {.price-table .prices-plan .tab-content>.active .price-plan-details .head .name,.price-table .prices-plan .tab-content>.active .price-plan-details .head .price,.price-table .prices-plan .tab-content>.active .price-plan-details .head-first {font-size:16px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head .price b {font-size:20px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head-first {padding:123px 0!important}
+.price-table .prices-plan .tab-content>.active .price-plan-details {height:auto;overflow:hidden;border-width:2px;margin:0 20px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {font-size:14px;height:65px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head p {font-size:12px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-button .btn-plan {font-size:14px;padding:7px 20px}
+.price-table .prices-plan .tab-content>.active .price-plan-details .empty-btn {height:84px}
+.faq {text-align:center}
+.faq ul.list-unstyled {padding:0}
+.create-account {padding:20px;height:auto;overflow:hidden}
+.create-account .create-account-box h1 {font-size:24px}
+.create-account .menu {text-align:center}
+.create-account .menu .free-account {margin:20px 0}
+.create-account .menu .free-account a {right:0!important}
+}
+/*Start Apiarence Fix- 25-04-2016*/
+
+.price-table .price-col1 {
+    border-right: 2px solid #c3c3c3;
+}
+
+.price-table .price-col {
+    border-right: 2px solid #c3c3c3;
+}
+
+.price-table .price-col .head .more {
+    position: relative;
+    top: -30px;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+}
+
+.price-table .price-col .head .more p {
+    margin: 0;
+    background-color: #FF551A;
+    width: 50%;
+    font-weight: 400;
+    color: #fff;
+}
+
+#monthly .price-col:nth-child(3) .head,
+#quarterly .price-col:nth-child(3) .head,
+#yearly .price-col:nth-child(3) .head {
+    padding: 30px 0;
+}
+
+#monthly .price-col:nth-child(3) .list-unstyled .feature-button,
+#quarterly .price-col:nth-child(3) .list-unstyled .feature-button,
+#yearly .price-col:nth-child(3) .list-unstyled .feature-button {
+    background-color: #FFECE5;
+}
+
+.faq h2.title {
+    margin-top: 50px;
+}
+
+.faq ul {
+    padding: 10px 0 20px;
+}
+
+.tab-content .tab-pane .price-col1 .head,
+.tab-content .tab-pane .price-col1 .list-unstyled {
+    text-align: right;
+}
+
+.tab-content .tab-pane .price-col1 .head,
+.tab-content .tab-pane .price-col1 .list-unstyled .feature-title {
+    padding: 7px 10px !important;
+}
+
+.price-table .prices-plan .tab-content>.active .price-plan-details .head-first { 
+    padding: 124px 10px 123px !important;
+}
+
+.price-table .prices-plan .tab-content>.active .price-plan-details .head {min-height: 320px;}
+
+#monthly .price-col:nth-child(3) .head, #quarterly .price-col:nth-child(3) .head, #yearly .price-col:nth-child(3) .head {
+    padding: 24px 0;
+}
+
+.price-table .price-col .head .more {top: -25px;}
+/*Start Responcive*/
+
+@media only screen and (max-width : 980px) {
+    #monthly .price-col:nth-child(3) .head, #quarterly .price-col:nth-child(3) .head, #yearly .price-col:nth-child(3) .head {
+      padding: 20px 0;
+  }
+  
+  .price-table .price-col .head .more {
+      top: -18px;
+  }
+  
+  .create-account .create-account-box .menu {
+      padding: 15px 40px;
+  }
+  
+  .create-account .create-account-box .menu ul {
+      margin: 0 85px;
+      padding: 20px 0;
+  }
+}
+
+@media only screen and (max-width : 768px) {
+    #monthly .price-col:nth-child(3) .head, #quarterly .price-col:nth-child(3) .head, #yearly .price-col:nth-child(3) .head {
+      padding: 22px 0;
+  }
+  
+  .price-table .price-col .head .more {
+      top: -20px;
+  }
+  
+  .create-account .create-account-box .menu {
+      padding: 15px 40px;
+  }
+  
+  .create-account .create-account-box .menu ul {
+      margin: 0 85px;
+      padding: 20px 0;
+  }
+  .price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {font-size: 12px;}
+}
+
+@media only screen and (max-width : 480px) {
+  .price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {
+      font-size: 12px;
+  }
+  
+  #monthly .price-col:nth-child(3) .head, 
+  #quarterly .price-col:nth-child(3) .head, 
+  #yearly .price-col:nth-child(3) .head {
+      padding: 35px 0;
+  }
+  
+  .price-table .price-col .head .more {
+      top: -23px;
+  }
+  .price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {font-size: 10px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .feature-title i.fa-info-circle {display: none;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head {padding: 51px 0;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .feature-button .btn-plan {padding: 7px 10px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head-first {font-size: 16px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head-first {font-size: 12px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head .name {font-size: 12px;}
+}
+
+@media (min-width: 981px) and (max-width: 1200px) {
+  .create-account .create-account-box .menu ul {
+      margin: 0 30px;
+      padding: 16px;
+  }
+  
+  .create-account .create-account-box .menu ul li a {
+      font-size: 16px;
+  }
+}
+
+/*End Responcive*/
+
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {color: #737373;}
+.price-table .prices-plan .tab-content>.active .price-plan-details .head {color: #737373;}
+/*Start Apiarence Fix- 25-04-2016*/
+
+.head p,
+.price { 
+    margin-top: 15px;
+}
+
+.price-table .prices-plan .tab-content>.active .price-plan-details .empty-btn { 
+    height: 90px;
+}
+
+@media (min-width: 768px) {
+    .navbar.navbar-fixed-top li a {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 736px) {
+  .price-table .prices-plan .tab-content>.active .price-plan-details .empty-btn {
+      height: 84px;
+  }
+  
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head p { 
+      font-size: 11px;
+  }
+  
+  .create-account .create-account-box .menu ul li a { 
+      font-size: 18px;
+  }
+  
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head { 
+      line-height: .6;
+  }
+  
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head .name, .price-table .prices-plan .tab-content>.active .price-plan-details .head .price, .price-table .prices-plan .tab-content>.active .price-plan-details .head-first { 
+      font-size: 14px;
+  }
+  
+  .create-account .create-account-box .menu .free-account a { 
+      font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .create-account-box .menu .col-md-10.col-sm-9 .row:first-child {display: none;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .feature-button .btn-plan {padding 10px 20px;}
+}
+
+.prices-plan .tab-content {
+    overflow: initial;
+}
+
+.create-account .create-account-box .menu .free-account a {bottom: 5px;}
+
+@media only screen and (max-width: 480px) {
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head {padding: 10px 0;}
+  #monthly .price-col:nth-child(3) .head, #quarterly .price-col:nth-child(3) .head, #yearly .price-col:nth-child(3) .head {padding: 5px 0;}
+  .price-table .price-col .head .more {display: none;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head .icon {margin-bottom: 5px;}
+  .create-account .create-account-box .menu .free-account a {font-size: 12px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .head {font-size: 12px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details {margin: 0;}
+  .price-table .prices-plan {margin: -10px;}
+  .price-table .prices-plan .tab-content>.active .price-plan-details .price-col:nth-child(3) .head .icon {margin-top: 5px;}
+}
+
+.price-table .prices-plan .tab-content>.active .price-plan-details .head {
+    min-height: 270px;
+}
+
+
+@media screen and (min-width: 960px) {
+#monthly .price-col:nth-child(3) .head, #quarterly .price-col:nth-child(3) .head, #yearly .price-col:nth-child(3) .head {
+    padding: 15px 0;
+  }
+.price-table .price-col .head .more {
+    top: -15px;
+  }
+}
+
+
+/*============TESTIMONIALS CSS=================*/
+.testmonials {
+	background: #f7f7f7;
+	padding: 40px 0
+}
+.testmonials p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+	line-height: 35px;
+}
+.test_img h5 {
+	color: #4e5560;
+	margin: 20px 0 5px;
+}
+.test_img small {
+	font-size: 16px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.test_img {
+	text-align: center;
+}
+/*============TESTIMONIALS CSS=================*/
+
+
+/*============VIDEO DEMO================*/
+.video_demo {
+	padding: 40px 0;
+}
+iframe {
+	border: 0 none;
+}
+.video{ width:100%; }
+
+.section-hed-sub {
+    color: #676767;
+    font-size: 27px;
+    font-weight: lighter;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.section-hed {
+    color: #222222;
+    font-size: 37px;
+    font-weight: bold;
+    margin-top: 0;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+/*============VIDEO DEMO================*/
+
+.price-table .prices-plan .tab-content>.active .price-plan-details .feature-title {
+    color: #000;
+}
+
+body { color: #000;}
+
+.call-to-action .media-body {
+    font-size: 15px;
+    color: #282828;
+    padding-top: 30px;
+    line-height: 24px;
+}
+
+.call-to-action .media-heading {
+    font-size: 22px;
+    color: #282828;
+    padding-bottom: 10px;
+}
+
+.media-left img {width: 250px;}
+.call-to-action h4 {
+    margin: 0;
+    color: #282828;
+    font-size: 2em;
+    line-height: 1.3em;
+}
+.faq ul li h4 { font-size: 20px; }
+
+		.jktooltip{
+   			display: inline;
+    		position: relative;
+		}
+		
+		.jktooltip:hover:after{
+    		background: #333;
+    		background: rgba(0,0,0,.8);
+    		border-radius: 5px;
+    		bottom: 26px;
+    		color: #fff;
+    		content: attr(title);
+    		left: 20%;
+    		padding: 5px 15px;
+    		position: absolute;
+    		z-index: 98;
+    		width: 220px;
+        text-align: initial;
+		}
+		
+		.jktooltip:hover:before{
+    		border: solid;
+    		border-color: #333 transparent;
+    		border-width: 6px 6px 0 6px;
+    		bottom: 20px;
+    		content: "";
+    		left: 50%;
+    		position: absolute;
+    		z-index: 99;
+		}
+
+.media-heading {
+    margin: 30px 0 15px !important;
+    font-size: 1.67em !important;
+}
+.media-body {
+    font-size: 1.2em !important;
+      line-height: 1.5em;
+  margin-left: 20px !important;
+  margin-top: 20px !important;
+}
+
+.price-table .section-title {
+    font-size: 37px;
+    font-family: MuseoSans;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@media screen and (min-width: 967px) {.guarantteec {margin-left: 5%;}}
+@media screen and (max-width: 960px) {
+  .guarantteec .media-body {float: none;clear: both;width: inherit;display: inherit;} 
+  .guarantteec .media-left {width: 100%;}
+}
+
+.faq ul li p {
+    color: #282828;
+    font-size: 16px;
+}
+.faq ul li h4 {
+    font-size: 22px;
+}
+
+.faq ul li h4 {
+    font-size: 22px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.price-table .section-sub-title {
+    font-size: 18px;
+}
+
+@media screen and (max-width: 900px) {
+  .media-left img {margin-left: 10%;}
+  .media-heading {font-size: 1.5em !important;}
+}
+
+

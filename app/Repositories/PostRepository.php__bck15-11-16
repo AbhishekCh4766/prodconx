@@ -1,0 +1,248 @@
+<?php
+
+namespace App\Repositories;
+use App\Models\Content;
+use DB;
+
+class PostRepository 
+{
+
+	/**
+	 * The Role instance.
+	 *
+	 * @var App\Models\Role
+	 */	
+
+	/**
+	 * Create a new UserRepository instance.
+	 *
+   	 * @param  App\Models\User $user
+	 * @param  App\Models\Role $role
+	 * @return void
+	 */
+	public function __construct(
+		Content $content)
+	{
+		$this->model = $content;
+
+	}
+
+	public function store_postData($request,$user_id){
+
+			$id = DB::table('tbl_posts')->insertGetId(
+			['user_id' => $user_id, 
+			 'post_text' => $request->post, 
+			'post_type' => 'text',
+			]
+		);
+		
+		return $id;
+		
+	}
+	
+	public function getAllpost(){
+		
+		$post = DB::table('tbl_posts')
+            ->join('tbl_users', 'tbl_users.id' , '=',  'tbl_posts.user_id' )					
+			->select('tbl_users.id','tbl_users.first_name','tbl_users.last_name','tbl_users.profile_pic','tbl_posts.*')		
+			->orderBy('tbl_posts.id', 'desc')	
+			->limit(3)	
+            ->get();		
+		return $post;	
+		
+		
+	}
+
+	public function ajax_postData($request){
+		
+		$post = DB::table('tbl_posts')
+            ->join('tbl_users', 'tbl_users.id' , '=',  'tbl_posts.user_id' )					
+			->select('tbl_users.id','tbl_users.first_name','tbl_users.profile_pic','tbl_users.last_name','tbl_posts.*')		
+			->where('tbl_posts.id','<', $request->data)		
+			->orderBy('tbl_posts.id', 'desc')	
+			->limit(3)	
+            ->get();		
+		return $post;	
+		
+		
+	}	
+
+	public function ajax_postLike($request,$user_id){
+		
+			$post = DB::table('tbl_posts')				
+			->select('tbl_posts.like_counter')		
+			->where('tbl_posts.id','=', $request->data)		
+            ->first();		
+		
+			$user = DB::table('tbl_posts')
+			->where('id',$request->data)	
+			->update([		
+				'like_counter' => $post->like_counter+1
+			]);
+		
+			$id = DB::table('tbl_posts_likes')->insertGetId(
+			['user_id' => $user_id, 
+			 'post_id' => $request->data, 
+			 'type' => 1,
+			]
+		);	
+		return $id;		
+		
+	}
+	
+	public function ajax_allPostLike($request){
+
+		$post = DB::table('tbl_posts_likes')
+            ->join('tbl_users', 'tbl_users.id' , '=',  'tbl_posts_likes.user_id' )					
+			->select('tbl_users.id','tbl_users.first_name','tbl_users.last_name','tbl_posts_likes.id')		
+			->where('tbl_posts_likes.post_id','=', $request->data)		
+			->orderBy('tbl_posts_likes.id', 'desc')				
+            ->get();	
+			
+		return $post;		
+
+	}
+	public function addNewPoject($request,$user_id){
+
+			$id = DB::table('tbl_projects')->insertGetId(
+			['user_id' => $user_id, 
+			 'project_name' => $request->project_title, 
+			 'project_description' => $request->project_description,
+			 'location' => $request->location,
+			]
+		);
+		
+		return $id;
+		
+	}
+	
+	
+	public function getUser_project($id){
+		
+		$post = DB::table('tbl_projects')					
+			->select('tbl_projects.id','tbl_projects.project_name','tbl_projects.project_description','tbl_projects.location')		
+			->where('tbl_projects.user_id','=', $id)		
+			->orderBy('tbl_projects.id', 'desc')				
+            ->get();	
+			
+		return $post;		
+		
+		
+	}
+	public function getProject($id){
+		
+		$post = DB::table('tbl_projects')					
+			->select('tbl_projects.id','tbl_projects.project_name','tbl_projects.project_description','tbl_projects.location')		
+			->where('tbl_projects.id','=', $id)					
+            ->first();	
+			
+		return $post;		
+		
+	}	
+	public function updateProject($request,$id){
+		
+			$user = DB::table('tbl_projects')
+			->where('id',$id)	
+			->update([		
+				'project_name'        => $request->project_name,
+				'project_description' => $request->project_description,
+				'location'            => $request->location,
+			]);		
+		
+		
+	}
+	public function deleteProject($id){
+		
+		
+		DB::table('tbl_projects')->where('id', '=', $id)->delete();
+	}
+	
+	public function fecthAllRole(){
+
+		$roles = DB::table('tbl_roles')
+		->select('id','role_name')
+		->where('is_active',1)	
+		->get();	
+		return $roles;		
+
+	}
+	public function addContactProject($request, $users_id){
+		
+		
+		$check = DB::table("tbl_project_contacts")
+		->where("project_id", "=",  $request->team_id) // "=" is optional
+		->where("user_id", "=",  $users_id) // "=" is optional
+		->count();
+		
+		if($check){
+				return 0;
+		}else{
+		
+		$role_id = implode(",",$request->role);
+
+		$id = DB::table('tbl_project_contacts')->insertGetId(
+			['user_id' => $users_id, 
+			 'project_id' => $request->team_id, 
+			 'role_id' => $role_id,
+			 'project_character' => $request->project_character
+			]
+		);		
+		return $id;	
+		}	
+
+	}	
+	public function fecthAllProjectContacts($id){
+		
+		$data = DB::table('tbl_project_contacts')
+            ->join('tbl_users', 'tbl_users.id' , '=',  'tbl_project_contacts.user_id' )	
+            ->join('tbl_roles', 'tbl_roles.id' , '=',  'tbl_project_contacts.role_id' )				
+			->select('tbl_users.id','tbl_users.first_name','tbl_users.last_name','tbl_users.username','tbl_users.email','tbl_users.profile_pic','tbl_roles.role_name')				
+			->where('tbl_project_contacts.project_id', $id)				
+            ->get();	
+		
+		return $data;
+	}
+	
+	public function fecthAllProjectName($id){
+		
+		$projectname = DB::table('tbl_projects')		
+			->select('project_name')				
+			->where('id', $id)				
+            ->first();	
+		
+		return $projectname;
+	}
+	
+	
+	public function deletecontact($id){
+		
+		DB::table('tbl_project_contacts')->where('user_id', '=', $id)->delete();
+		
+	}
+	public function getContactDetails($id,$project_id){
+		
+		$data = DB::table('tbl_project_contacts')
+            ->join('tbl_users', 'tbl_users.id' , '=',  'tbl_project_contacts.user_id' )				
+			->select('tbl_users.id','tbl_users.email','tbl_project_contacts.role_id','tbl_project_contacts.project_character')			
+			->where('tbl_project_contacts.project_id', $project_id)	
+			->where('tbl_project_contacts.user_id', $id)				
+            ->get();	
+			
+		
+		return $data;		
+
+	}
+	public function updateContactDetail($request){
+		
+			$role_id = implode(",",$request->role);
+			$user = DB::table('tbl_project_contacts')
+			->where('project_id',$request->project_id)
+			->where('user_id',$request->user_id)	
+			->update([		
+				'project_character'        => $request->project_character,
+				'role_id' => $role_id
+			]);		
+			return $user;
+		
+	}
+}

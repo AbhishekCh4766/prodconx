@@ -1,0 +1,71 @@
+[16-Jan-2018 00:17:25 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[16-Jan-2018 00:17:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[16-Jan-2018 00:17:25 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[16-Jan-2018 00:17:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[16-Jan-2018 00:17:31 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[16-Jan-2018 00:17:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[16-Jan-2018 00:17:31 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[16-Jan-2018 00:17:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[16-Jan-2018 00:17:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[16-Jan-2018 00:17:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[16-Jan-2018 00:17:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[16-Jan-2018 00:17:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[16-Jan-2018 00:17:56 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[16-Jan-2018 00:17:56 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[16-Jan-2018 00:17:56 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[16-Jan-2018 00:17:56 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[16-Jan-2018 00:18:05 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[16-Jan-2018 00:18:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[16-Jan-2018 00:18:05 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[16-Jan-2018 00:18:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[16-Jan-2018 00:18:13 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[16-Jan-2018 00:18:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[16-Jan-2018 00:18:13 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[16-Jan-2018 00:18:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[16-Jan-2018 00:18:13 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 163
+[16-Jan-2018 00:18:20 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[16-Jan-2018 00:18:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[16-Jan-2018 00:18:20 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[16-Jan-2018 00:18:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[16-Jan-2018 00:18:32 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[16-Jan-2018 00:18:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[16-Jan-2018 00:18:32 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[16-Jan-2018 00:18:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[06-Apr-2018 06:06:07 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[06-Apr-2018 06:06:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[06-Apr-2018 06:06:07 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[06-Apr-2018 06:06:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_education.blade.php on line 26
+[06-Apr-2018 06:06:16 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[06-Apr-2018 06:06:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[06-Apr-2018 06:06:16 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[06-Apr-2018 06:06:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_experience.blade.php on line 26
+[06-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[06-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[06-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[06-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/edit_service.blade.php on line 24
+[06-Apr-2018 06:06:23 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[06-Apr-2018 06:06:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[06-Apr-2018 06:06:23 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[06-Apr-2018 06:06:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/education.blade.php on line 26
+[06-Apr-2018 06:06:26 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[06-Apr-2018 06:06:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[06-Apr-2018 06:06:26 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[06-Apr-2018 06:06:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/experience.blade.php on line 26
+[06-Apr-2018 06:06:30 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[06-Apr-2018 06:06:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[06-Apr-2018 06:06:30 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[06-Apr-2018 06:06:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 29
+[06-Apr-2018 06:06:30 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 163
+[06-Apr-2018 06:06:45 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[06-Apr-2018 06:06:45 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[06-Apr-2018 06:06:45 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[06-Apr-2018 06:06:45 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 24
+[06-Apr-2018 06:06:59 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[06-Apr-2018 06:06:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[06-Apr-2018 06:06:59 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[06-Apr-2018 06:06:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/profile/skills.blade.php on line 27
+[18-Aug-2018 22:42:39 Etc/GMT] PHP Notice:  Undefined variable: users in /home3/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 26
+[18-Aug-2018 22:42:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 26
+[18-Aug-2018 22:42:39 Etc/GMT] PHP Notice:  Undefined variable: users in /home3/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 26
+[18-Aug-2018 22:42:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/profile/services.blade.php on line 26
+[19-Aug-2018 07:56:48 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home3/allalepy/public_html/prodconx/resources/views/users/profile/profile.blade.php on line 127

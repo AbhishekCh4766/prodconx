@@ -1,0 +1,20 @@
+[16-Jan-2018 00:18:48 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[16-Jan-2018 00:18:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[16-Jan-2018 00:18:48 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[16-Jan-2018 00:18:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[16-Jan-2018 00:18:53 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[16-Jan-2018 00:18:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[16-Jan-2018 00:18:53 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[16-Jan-2018 00:18:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[16-Jan-2018 00:18:53 Etc/GMT] PHP Notice:  Undefined variable: friends in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 89
+[06-Apr-2018 06:07:12 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[06-Apr-2018 06:07:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[06-Apr-2018 06:07:12 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[06-Apr-2018 06:07:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/project.blade.php on line 25
+[06-Apr-2018 06:07:16 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[06-Apr-2018 06:07:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[06-Apr-2018 06:07:16 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[06-Apr-2018 06:07:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 30
+[06-Apr-2018 06:07:16 Etc/GMT] PHP Notice:  Undefined variable: friends in /home/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 89
+[19-Aug-2018 10:56:11 Etc/GMT] PHP Notice:  Undefined variable: friends in /home3/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 61
+[19-Aug-2018 10:56:11 Etc/GMT] PHP Fatal error:  Class 'Request' not found in /home3/allalepy/public_html/prodconx/resources/views/users/projects/projectcontacts.blade.php on line 339

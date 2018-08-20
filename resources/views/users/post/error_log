@@ -1,0 +1,11 @@
+[16-Jan-2018 00:17:07 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/users/post/post.blade.php on line 61
+[16-Jan-2018 00:17:15 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[16-Jan-2018 00:17:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[16-Jan-2018 00:17:15 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[16-Jan-2018 00:17:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[06-Apr-2018 06:06:02 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[06-Apr-2018 06:06:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[06-Apr-2018 06:06:02 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[06-Apr-2018 06:06:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/post/service.blade.php on line 89
+[20-Aug-2018 03:41:20 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home3/allalepy/public_html/prodconx/resources/views/users/post/portfolio.blade.php on line 62
+[20-Aug-2018 07:26:48 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home3/allalepy/public_html/prodconx/resources/views/users/post/post.blade.php on line 296

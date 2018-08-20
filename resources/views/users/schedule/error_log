@@ -1,0 +1,4 @@
+[19-Aug-2018 04:26:25 Etc/GMT] PHP Notice:  Undefined variable: schedule in /home3/allalepy/public_html/prodconx/resources/views/users/schedule/edit.blade.php on line 60
+[19-Aug-2018 04:26:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/schedule/edit.blade.php on line 60
+[19-Aug-2018 04:26:25 Etc/GMT] PHP Notice:  Undefined variable: schedule in /home3/allalepy/public_html/prodconx/resources/views/users/schedule/edit.blade.php on line 61
+[19-Aug-2018 04:26:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/schedule/edit.blade.php on line 61

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Checkout | Prodconx</title>
+	<script src="{{ URL::asset('validation/js/jquery-1.8.2.min.js')}}" type="text/javascript">
+	</script>
+	<script src="{{ URL::asset('validation/js/jquery.validationEngine-en.js')}}" type="text/javascript" charset="utf-8">
+	</script>
+	<script src="{{ URL::asset('validation/js/jquery.validationEngine.js')}}" type="text/javascript" charset="utf-8">
+	</script>
+
+				
+    </head>
+    <body>
+			
+			
+			<table>
+				<th>Name</th>		
+				<th>Duration</th>			
+				<th>Price</th>
+				<tr>
+				<td>{{$membership_plan->title}}</td>	
+				<td>{{$membership_plan->duration}}</td>	
+				<td>{{$membership_plan->price}}</td>	
+				</tr>
+				<tr>
+				<td></td><td></td><td><a href="{{URL::to('payment')}}/{{$membership_plan->id}}">Pay</a></td>
+				</tr>
+			</table>
+	
+</body>
+</html>

@@ -1,0 +1,4 @@
+[16-Jan-2018 00:09:51 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/allalepy/public_html/prodconx/app/Http/Controllers/Auth/AuthController.php on line 12
+[16-Jan-2018 00:09:56 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/allalepy/public_html/prodconx/app/Http/Controllers/Auth/PasswordController.php on line 9
+[04-Mar-2018 15:22:41 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/allalepy/public_html/prodconx/app/Http/Controllers/Auth/PasswordController.php on line 9
+[07-Mar-2018 14:09:34 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/allalepy/public_html/prodconx/app/Http/Controllers/Auth/PasswordController.php on line 9

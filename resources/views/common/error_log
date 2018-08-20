@@ -1,0 +1,30 @@
+[06-Sep-2017 13:14:42 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[06-Sep-2017 14:41:09 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[06-Sep-2017 14:41:09 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[06-Sep-2017 14:41:09 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 13
+[11-Oct-2017 10:53:39 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[11-Oct-2017 11:26:29 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[11-Oct-2017 11:26:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[11-Oct-2017 11:26:29 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 13
+[13-Nov-2017 10:42:30 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[17-Nov-2017 05:53:04 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[17-Nov-2017 05:53:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[17-Nov-2017 05:53:04 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 13
+[04-Dec-2017 01:21:32 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[04-Dec-2017 01:21:35 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[07-Dec-2017 04:47:44 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[07-Dec-2017 04:47:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[07-Dec-2017 04:47:44 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 13
+[15-Jan-2018 05:04:22 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header-menu.blade.php on line 1
+[15-Jan-2018 05:04:31 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[15-Jan-2018 05:04:44 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[15-Jan-2018 05:04:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[15-Jan-2018 05:04:44 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 13
+[15-Jan-2018 05:04:55 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/left-menu.blade.php on line 6
+[22-Jan-2018 23:55:54 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header-menu.blade.php on line 1
+[22-Jan-2018 23:56:05 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/header.blade.php on line 20
+[22-Jan-2018 23:56:35 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[22-Jan-2018 23:56:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 8
+[22-Jan-2018 23:56:35 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/innerleft-menu.blade.php on line 13
+[22-Jan-2018 23:57:14 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home/allalepy/public_html/prodconx/resources/views/common/left-menu.blade.php on line 6
+[20-Jun-2018 03:15:43 Etc/GMT] PHP Fatal error:  Class 'Session' not found in /home3/allalepy/public_html/prodconx/resources/views/common/left-menu.blade.php on line 6

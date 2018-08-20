@@ -1,0 +1,8 @@
+[16-Jan-2018 00:12:32 Etc/GMT] PHP Notice:  Undefined variable: role in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 97
+[16-Jan-2018 00:12:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 97
+[16-Jan-2018 00:12:32 Etc/GMT] PHP Notice:  Undefined variable: role in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 98
+[16-Jan-2018 00:12:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 98
+[06-Apr-2018 06:02:39 Etc/GMT] PHP Notice:  Undefined variable: role in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 97
+[06-Apr-2018 06:02:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 97
+[06-Apr-2018 06:02:39 Etc/GMT] PHP Notice:  Undefined variable: role in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 98
+[06-Apr-2018 06:02:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/role/roleTemplateEdit.blade.php on line 98

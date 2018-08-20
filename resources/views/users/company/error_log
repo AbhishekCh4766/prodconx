@@ -1,0 +1,60 @@
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[16-Jan-2018 00:15:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 74
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 74
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 75
+[16-Jan-2018 00:15:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 75
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[04-Mar-2018 23:06:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 74
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 74
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 75
+[04-Mar-2018 23:06:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 75
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 26
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[06-Apr-2018 06:04:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 93
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 26
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 74
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 74
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Undefined variable: search in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 75
+[06-Apr-2018 06:04:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 75
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Undefined variable: users in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 28
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 28
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Undefined variable: users in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 28
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 28
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Undefined variable: search in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 78
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 78
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Undefined variable: search in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 79
+[19-Aug-2018 17:41:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/company/listusercompany.blade.php on line 79
+[20-Aug-2018 12:17:32 Etc/GMT] PHP Notice:  Undefined variable: search in /home3/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 65
+[20-Aug-2018 12:17:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 65
+[20-Aug-2018 12:17:32 Etc/GMT] PHP Notice:  Undefined variable: search in /home3/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 65
+[20-Aug-2018 12:17:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/company/company.blade.php on line 65

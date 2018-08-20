@@ -1,0 +1,7 @@
+[01-Sep-2017 15:30:01 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12
+[08-Oct-2017 10:43:39 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12
+[16-Nov-2017 03:52:56 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12
+[03-Dec-2017 18:38:47 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12
+[14-Jan-2018 16:58:22 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12
+[04-Mar-2018 15:22:50 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12
+[17-Aug-2018 16:40:52 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home3/allalepy/public_html/prodconx/app/Exceptions/Handler.php on line 12

@@ -1,0 +1,16 @@
+[23-Jan-2018 21:00:46 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[23-Jan-2018 21:00:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[23-Jan-2018 21:00:46 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[23-Jan-2018 21:00:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[23-Jan-2018 21:00:51 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[23-Jan-2018 21:00:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[23-Jan-2018 21:00:51 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[23-Jan-2018 21:00:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[14-Apr-2018 04:39:01 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[14-Apr-2018 04:39:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[14-Apr-2018 04:39:01 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[14-Apr-2018 04:39:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/addcontact.blade.php on line 25
+[14-Apr-2018 04:39:03 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[14-Apr-2018 04:39:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[14-Apr-2018 04:39:03 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26
+[14-Apr-2018 04:39:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/contact/contact.blade.php on line 26

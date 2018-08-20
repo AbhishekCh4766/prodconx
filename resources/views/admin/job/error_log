@@ -1,0 +1,16 @@
+[16-Jan-2018 00:11:14 Etc/GMT] PHP Notice:  Undefined variable: jobCat in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 88
+[16-Jan-2018 00:11:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 88
+[16-Jan-2018 00:11:14 Etc/GMT] PHP Notice:  Undefined variable: jobCat in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 89
+[16-Jan-2018 00:11:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 89
+[16-Jan-2018 00:11:19 Etc/GMT] PHP Notice:  Undefined variable: job in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 137
+[16-Jan-2018 00:11:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 137
+[16-Jan-2018 00:11:19 Etc/GMT] PHP Notice:  Undefined variable: job in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 138
+[16-Jan-2018 00:11:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 138
+[06-Apr-2018 06:01:50 Etc/GMT] PHP Notice:  Undefined variable: jobCat in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 88
+[06-Apr-2018 06:01:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 88
+[06-Apr-2018 06:01:50 Etc/GMT] PHP Notice:  Undefined variable: jobCat in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 89
+[06-Apr-2018 06:01:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/JobCatEdit.blade.php on line 89
+[06-Apr-2018 06:01:53 Etc/GMT] PHP Notice:  Undefined variable: job in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 137
+[06-Apr-2018 06:01:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 137
+[06-Apr-2018 06:01:53 Etc/GMT] PHP Notice:  Undefined variable: job in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 138
+[06-Apr-2018 06:01:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/admin/job/Joblistingedit.blade.php on line 138

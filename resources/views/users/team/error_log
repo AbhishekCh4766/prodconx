@@ -1,0 +1,30 @@
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Undefined variable: projectname in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 97
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 97
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Undefined variable: countContacts in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 116
+[16-Jan-2018 00:19:40 Etc/GMT] PHP Notice:  Undefined variable: countCallSheet in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 128
+[16-Jan-2018 00:19:47 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[16-Jan-2018 00:19:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[16-Jan-2018 00:19:47 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[16-Jan-2018 00:19:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 31
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Undefined variable: projectname in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 97
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 97
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Undefined variable: countContacts in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 116
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Undefined variable: countCallSheet in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 125
+[06-Apr-2018 06:07:43 Etc/GMT] PHP Notice:  Undefined variable: countLocations in /home/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 138
+[06-Apr-2018 06:07:53 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[06-Apr-2018 06:07:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[06-Apr-2018 06:07:53 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[06-Apr-2018 06:07:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/team/team.blade.php on line 23
+[18-Aug-2018 21:42:55 Etc/GMT] PHP Notice:  Undefined variable: projectname in /home3/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 56
+[18-Aug-2018 21:42:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 56
+[18-Aug-2018 21:42:55 Etc/GMT] PHP Notice:  Undefined variable: countContacts in /home3/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 75
+[18-Aug-2018 21:42:55 Etc/GMT] PHP Notice:  Undefined variable: countCallSheet in /home3/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 84
+[18-Aug-2018 21:42:55 Etc/GMT] PHP Notice:  Undefined variable: countLocations in /home3/allalepy/public_html/prodconx/resources/views/users/team/project.blade.php on line 97

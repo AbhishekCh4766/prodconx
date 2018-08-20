@@ -1,0 +1,25 @@
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Undefined variable: chat in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 61
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 61
+[16-Jan-2018 00:15:18 Etc/GMT] PHP Notice:  Undefined variable: id in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 61
+[16-Jan-2018 00:15:24 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[16-Jan-2018 00:15:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[16-Jan-2018 00:15:24 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[16-Jan-2018 00:15:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 24
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Undefined variable: chat in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 61
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 61
+[06-Apr-2018 06:04:23 Etc/GMT] PHP Notice:  Undefined variable: id in /home/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 61
+[06-Apr-2018 06:04:28 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[06-Apr-2018 06:04:28 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[06-Apr-2018 06:04:28 Etc/GMT] PHP Notice:  Undefined variable: users in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[06-Apr-2018 06:04:28 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/allalepy/public_html/prodconx/resources/views/users/chat/message.blade.php on line 26
+[19-Aug-2018 06:55:20 Etc/GMT] PHP Notice:  Undefined variable: chat in /home3/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 31
+[19-Aug-2018 06:55:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home3/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 31
+[19-Aug-2018 06:55:20 Etc/GMT] PHP Notice:  Undefined variable: id in /home3/allalepy/public_html/prodconx/resources/views/users/chat/chat.blade.php on line 31
